@@ -1,0 +1,23 @@
+<idea-plugin>
+
+    <id>com.lgou2w.ldk.idea</id>
+    <name>ldk-idea</name>
+    <version>0.0.1</version>
+    <vendor email="lgou2w@hotmail.com" url="https://lgou2w.com">lgou2w</vendor>
+    <description>A multi-platform lgou2w development kit for Intellij plugin</description>
+    <description><![CDATA[
+        A multi-platform lgou2w development kit for Intellij plugin
+    ]]></description>
+    <change-notes><![CDATA[
+    ]]>
+    </change-notes>
+
+    <depends>org.jetbrains.kotlin</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+
+    <actions>
+    </actions>
+
+</idea-plugin>
